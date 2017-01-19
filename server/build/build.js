@@ -1,0 +1,1 @@
+console.error("TypeError: Cannot read property 'length' of undefined while parsing file: D:\\PWA_App\\pokus\\src\\app.jsx");
